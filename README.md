@@ -7,6 +7,23 @@
 
 
 **Tamboon React** is a code challenge for frontend developer.
+## How to run!
+
+###Step 1
+
+Run command
+git clone https://github.com/tiempham/challenge-react.git
+
+###Step 2
+Run command
+
+yarn
+
+###Step 3
+Run command
+
+yarn start
+
 
 ## Scenario
 Once upon a time.. nope!  
